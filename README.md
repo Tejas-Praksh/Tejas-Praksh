@@ -9,6 +9,9 @@
 - 💬 Ask me about **Java full stack and DSA**
 
 - 📫 How to reach me **tp5063144@gmail.com**
+  
+- "Started late? Maybe. Giving up? Never."
+Average gym rat from 10 PM to 4 AM.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
