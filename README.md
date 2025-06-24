@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">A passionate Java full-stack developer and leetCode enthusiast from India.</h3>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 - 🌱 I’m currently learning **Microservices**
 
@@ -9,9 +9,9 @@
 - 💬 Ask me about **Java full stack and DSA**
 
 - 📫 How to reach me **tp5063144@gmail.com**
-  
-- 🚀 "Started late? Maybe. Giving up? Never."
-       Average gym rat from 10 PM to 4 AM.
+
+- 🚀 "Started late? Maybe. Giving up? Never." <br> 
+       Average gym rat from 10 PM to 4 AM. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
