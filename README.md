@@ -11,7 +11,7 @@
 - 📫 How to reach me **tp5063144@gmail.com**
 
 - 🚀 "Started late? Maybe. Giving up? Never." <br> 
-       Average gym rat from 10 PM to 4 AM. 
+       Average gym rat. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
