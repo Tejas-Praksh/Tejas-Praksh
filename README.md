@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Java full stack projects**
 
-- 💬 Ask me about **Java full stack and DSA**
+- 💬 Ask me about **Java full stack, System design and DSA**
 
 - 📫 How to reach me **tp5063144@gmail.com**
 
