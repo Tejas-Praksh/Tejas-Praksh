@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java full-stack developer and leetCode enthusiast from India.</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **Java full stack projects**
 
